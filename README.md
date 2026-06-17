@@ -8,13 +8,16 @@
 
 ### 📫 Contato
 
-<a href="https://linkedin.com/ingrid-lopes-oliveira">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-<a href="mailto:ingridrieser.lopes@gmail.com">
-    <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+
+  <a href="https://linkedin.com/ingrid-lopes-oliveira">
+     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:ingridrieser.lopes@gmail.com">
+     <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
 
 ---
 ### 🔆 Tecnologias
