@@ -1,35 +1,35 @@
-<h1 align="center">Olá, eu sou Ingrid Lopes</h1>
+<h2 align="center">Olá, eu sou Ingrid Lopes 😉</h2>
+
+<p align="start">
+  Desenvolvedora Full Stack Pleno | React, Node.js (NestJS) | Sistemas de Alta Escala
+</p>
+
+---
+
+### 📫 Contato
+
+<a href="https://linkedin.com/ingrid-lopes-oliveira">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ingridrieser.lopes@gmail.com">
+    <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+### 🔆 Tecnologias
 
 <p align="center">
-  Desenvolvedora Full Stack 
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nestjs,vue,next,antd" />
 </p>
----
 
-## 🚀 Tecnologias
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,kubernetes,aws,redis" />
+</p>
 
 ---
 
-## 📊 Estatísticas GitHub
+### 📊 Estatísticas GitHub
 
 <div align="center">
 
@@ -41,24 +41,12 @@
 
 ---
 
-## 📈 Atividade
+### 📈 Atividade
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ingridlopesoliveira&theme=tokyo-night"/>
 
 </div>
-
----
-
-## 📫 Contato
-
-<a href="https://linkedin.com/ingrid-lopes-oliveira">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ingrid">
-    <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 ---
